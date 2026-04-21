@@ -24,7 +24,7 @@ Este sistema foi criado para resolver esse problema, oferecendo um controle simp
 
 ## 🧠 Conceitos aplicados
 - Encapsulamento  
-- Separação de responsabilidades (Service / Entity / Program)  
+- Separação de responsabilidades (Service / Entities / Program)  
 - Manipulação de listas  
 - Lógica de negócio  
 - Entrada de dados com Scanner  
